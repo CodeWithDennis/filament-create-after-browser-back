@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/84bb12ee-2a55-4872-84a8-31268a6687b8
+
 # Filament: Create button does nothing after browser Back
 
 Minimal reproduction for a Filament resource navigation bug.
