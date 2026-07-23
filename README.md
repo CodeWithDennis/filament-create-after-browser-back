@@ -77,7 +77,7 @@ No custom JavaScript, themes, or navigation hacks — just a default Filament re
 - Laravel 13.21
 - Filament 5.7.2
 - Livewire 4.3.3
-- Safari / Chrome on macOS
+- Helium / Brave on macOS
 
 ## Related
 
